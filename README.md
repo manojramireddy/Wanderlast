@@ -1,0 +1,2 @@
+# Wanderlast
+MERN stack project
