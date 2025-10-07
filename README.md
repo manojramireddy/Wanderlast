@@ -1,2 +1,1 @@
-# Wanderlast
-MERN stack project
+# wanderlust
